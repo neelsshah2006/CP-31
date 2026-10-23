@@ -23,5 +23,6 @@ public class ADonTTryToCount {
                 ans.append(-1 + "\n");
         }
         System.out.println(ans);
+        sc.close();
     }
 }
