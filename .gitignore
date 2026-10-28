@@ -1,2 +1,4 @@
 *.class
 .cph
+.cph-ng
+.cpn-ng/*
